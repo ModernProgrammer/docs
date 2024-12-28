@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#dd1533",
+    "light": "#dd1533",
+    "dark": "#dd1533",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#dd1533",
+      "to": "#dd1533"
     }
   },
   "topbarLinks": [
@@ -25,27 +25,21 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "App Store",
+      "icon": "apple",
+      "url": "https://apps.apple.com/us/app/analog-by-nossaflex/id1523558285"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/zs6EzTeQ"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Instagram",
+      "icon": "instagram",
+      "url": "https://www.instagram.com/nossaflex/"
     }
   ],
   "navigation": [
@@ -53,39 +47,21 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "ios-app",
+        "digital-downloads"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "NOSSAFLEX System",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "nossaflex-system"
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Privacy Policy",
       "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "privacy-policy"
       ]
     }
-  ],
-  "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
-  }
+  ]
 }
