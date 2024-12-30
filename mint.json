@@ -1,30 +1,30 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "NOSSAFLEX",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#dd1533",
-    "light": "#dd1533",
-    "dark": "#dd1533",
+    "primary": "#443e40",
+    "light": "#f6f5f1",
+    "dark": "#443e40",
     "anchors": {
-      "from": "#dd1533",
-      "to": "#dd1533"
+      "from": "#443e40",
+      "to": "#443e40"
     }
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Get in touch",
+      "url": "mailto:hello@nossaflex.io"
     }
   ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
+ // "topbarCtaButton": {
+ //   "name": "Dashboard",
+ //   "url": "https://dashboard.mintlify.com"
+ // },
   "anchors": [
     {
       "name": "App Store",
@@ -44,7 +44,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "The Project",
       "pages": [
         "introduction",
         "ios-app",
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "group": "NOSSAFLEX System",
+      "group": "Using the System",
       "pages": [
         "nossaflex-system"
       ]
