@@ -21,10 +21,6 @@
       "url": "mailto:hello@nossaflex.io"
     }
   ],
- // "topbarCtaButton": {
- //   "name": "Dashboard",
- //   "url": "https://dashboard.mintlify.com"
- // },
   "anchors": [
     {
       "name": "App Store",
